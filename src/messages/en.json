@@ -1,0 +1,54 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "blog": "Blog",
+    "team": "Team",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Our Company",
+      "subtitle": "Building the future with innovative solutions",
+      "description": "We are a leading company specializing in cutting-edge technology solutions for businesses worldwide.",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "Why Choose Us",
+      "subtitle": "We provide the best services in the industry"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive solutions for your business"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a team of passionate professionals dedicated to delivering exceptional results.",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Our Values"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a wide range of professional services to meet your business needs."
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Latest news and insights from our team",
+    "readMore": "Read More"
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "Meet the talented professionals behind our success"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with us for any inquiries",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  }
+}
